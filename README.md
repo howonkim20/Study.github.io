@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 컴퓨터 과학 교양 강좌 : cs 50
+### chapter 1 : 컴퓨터와 컴퓨팅
+ - https://www.edwith.org/cs50/joinLectures/15240
+소단원 
+ - 하드웨어
+하드웨어는 컴퓨터를 물리적으로 구성하는 요소이며, 컴퓨터에 연결되어 추가적인 기능을 수행하는 역할을 합니다. 하드웨어에는 다양한 형태와 구성 요소가 있습니다.
+소비자들은 다양한 하드웨어의 기능과 차이점에 대하여 잘 알수록, 더 현명하게 컴퓨터를 구매하거나 필요한 하드웨어를 추가할 수 있습니다.
+ 
+ - 컴퓨터 내의 하드웨어
 
-You can use the [editor on GitHub](https://github.com/howonkim20/GITPAGE/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/howonkim20/GITPAGE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
