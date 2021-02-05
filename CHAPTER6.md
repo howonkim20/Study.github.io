@@ -2,7 +2,7 @@
 
 ---
 
-(https://howonkim20.github.io/Study.github.io/CHAPTER1)
+[link](https://howonkim20.github.io/Study.github.io/CHAPTER1)
 
 (https://howonkim20.github.io/Study.github.io/CHAPTER2)
 
