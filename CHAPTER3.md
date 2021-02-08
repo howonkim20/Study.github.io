@@ -2,21 +2,35 @@
 
 ---
 
-[CHAPTER1](https://howonkim20.github.io/Study.github.io/CHAPTER1)
+[CHAPTER1](https://howonkim20.github.io/Study.github.io/CHAPTER1) 컴퓨터와 컴퓨팅
 
-[CHAPTER2](https://howonkim20.github.io/Study.github.io/CHAPTER2)
+---
 
-[CHAPTER3](https://howonkim20.github.io/Study.github.io/CHAPTER3)
+[CHAPTER2](https://howonkim20.github.io/Study.github.io/CHAPTER2) 알고리즘 기초
 
-[CHAPTER4](https://howonkim20.github.io/Study.github.io/CHAPTER4)
+---
 
-[CHAPTER5](https://howonkim20.github.io/Study.github.io/CHAPTER5)
+[CHAPTER3](https://howonkim20.github.io/Study.github.io/CHAPTER3) 프로그래밍 기초
 
-[CHAPTER6](https://howonkim20.github.io/Study.github.io/CHAPTER6)
+---
+
+[CHAPTER4](https://howonkim20.github.io/Study.github.io/CHAPTER4) 프로그래밍 응용
+
+---
+
+[CHAPTER5](https://howonkim20.github.io/Study.github.io/CHAPTER5) 인터넷과 네트워크
+
+---
+
+[CHAPTER6](https://howonkim20.github.io/Study.github.io/CHAPTER6) 웹 프로그래밍
+
+---
 
 # chapter 3 : 프로그래밍 기초
 
 <br> <br>
+
+---
 
 # 소단원
 
